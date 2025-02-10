@@ -16,7 +16,7 @@ Start `PLATFORM_TEST_EXAMPLE_UI_JOURNEY_TESTS` services as follows:
 sm2 --start PLATFORM_TEST_EXAMPLE_UI_JOURNEY_TESTS
 ```
 
-### Logging
+### Logging this is a change
 
 The default log level for all HTTP requests is set to `WARN`. Configure [logback.xml](src/test/resources/logback.xml) to update this if required.
 
